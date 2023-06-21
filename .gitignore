@@ -168,6 +168,7 @@ cython_debug/
 # MY STUFF
 DIT244-1.zip
 DIT244-2.zip
+DIT244-3.zip
 itp22104.zip
 Kotronis.zip
 Cheng_NC2016.pdf
@@ -176,4 +177,4 @@ Project-2/dataset/
 Project-2/dataset-all/
 TensorFlow_FILES/
 Project-1/data/
-Project-1/venv/
+model
